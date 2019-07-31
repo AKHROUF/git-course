@@ -169,5 +169,21 @@ which explains why the changes were made.
 ## [Feedback form][feedback form] = attendance record
 
 
+# Rebasing
+
+<img src="../fig/git-rebase.svg" width=80%>
+
 # Merge vs rebase
-![](../fig/slideshow/forked-history.svg)
+![](../fig/forked-history.svg)
+
+# Standard merge
+![](../fig/merge-without-rebase.svg)
+
+# Rebase onto master
+![](../fig/rebase-master.svg)
+
+# FF merge after rebase
+![](../fig/rebase-then-merge.svg)
+
+# Forks and Pull Requests
+<img src="../fig/github-diagram.png" width=70%>
